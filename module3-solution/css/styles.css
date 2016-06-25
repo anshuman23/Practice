@@ -1,0 +1,46 @@
+.mainContainer
+{
+	position: absolute;
+	height: 100%;
+	width: 100%;
+}
+
+.title
+{
+	position: relative;
+	float: left;
+	height: 3rem;
+	width: 100%;
+	font-size: 18px;
+}
+
+.section
+{
+	position: relative;
+	float: left;
+	height: 1000px;
+	width: 100%;
+	background-color: #EBEBEB;
+}
+
+.sectionHeader
+{
+	position: relative;
+	float: left;
+	top:1%;
+	height: 3rem;
+	width: 100%;
+	font-size: 15px;
+}
+
+.sectionBody
+{
+position: relative;
+float: left;
+height: 30rem;
+width: 100%;
+box-sizing: border-box;
+padding: 0.7rem;
+font-size: 13px;
+
+}
